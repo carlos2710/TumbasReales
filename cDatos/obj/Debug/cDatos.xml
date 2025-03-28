@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cDatos
+</name>
+</assembly>
+<members>
+<member name="T:cDatos.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:cDatos.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:cDatos.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:cDatos.d_Conexion">
+ <summary>
+ Clase para administrar las cadenas de conexión al SGI
+ </summary>
+ <remarks>Esta clase se utiliza junto al sql helper,Capa del Sistema:Capa de Datos</remarks>
+</member>
+<member name="M:cDatos.d_Conexion.CadenaConexion">
+ <summary>
+ Cadena de conexión de la base de datos de la empresa ISL
+ </summary>
+ <returns>Devuelve un cadena</returns>
+ <remarks></remarks>
+</member>
+<member name="M:cDatos.SqlHelper.InsertarMasivo(System.String,System.Data.DataTable,System.Boolean)">
+ <summary>
+ Ejecuta una insercion masiva desde un datatable
+ </summary>
+ <param name="NombreTabla">Nombre de la tabla</param>
+ <param name="dt">Datatable</param>
+ <returns>Retorna True cuando inserto, False si ocurrio algun error</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="ffa2d3ed-9638-4276-852d-ca8cce65c2e9">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>WebTumbasReales/assets/css/misc.css</FileRelativePath>
+        <ProjectRelativePath>http://localhost:1168/</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>14716677733807952745</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>4043201235547603742</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>12603066359230207684</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>9685592957550659940</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>WebTumbasReales/assets/css/pick-a-color/pick-a-color-1.2.3.min.css</FileRelativePath>
+        <ProjectRelativePath>http://localhost:1168/</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>5574387392494033234</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>6295664225342482493</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>2486898316820598091</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>14982116910722196819</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>9781446531546748257</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>13502062280724998231</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>WebTumbasReales/assets/css/weather.css</FileRelativePath>
+        <ProjectRelativePath>http://localhost:1168/</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>4007220714384799874</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>WebTumbasReales/assets/css/style.css</FileRelativePath>
+        <ProjectRelativePath>http://localhost:1168/</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>14568263257789431504</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>1432714569152909891</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>12072329881746330065</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

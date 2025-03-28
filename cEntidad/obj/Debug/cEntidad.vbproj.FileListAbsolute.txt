@@ -1,0 +1,72 @@
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.Cache
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.Cache
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.Cache
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+D:\Jr\FT1\13012019\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.Cache
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+F:\A TUMBA REALES WEB\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.AssemblyReference.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+D:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+D:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+D:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.AssemblyReference.cache
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.cache
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInputs.cache
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+D:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.AssemblyReference.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInputs.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+E:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+E:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+E:\Tumbas Reales\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.AssemblyReference.cache
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.cache
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInputs.cache
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb

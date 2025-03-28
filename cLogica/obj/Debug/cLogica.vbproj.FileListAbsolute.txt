@@ -1,0 +1,128 @@
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.vbprojResolveAssemblyReference.cache
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.Cache
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.dll
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.xml
+C:\Users\Junior\Desktop\TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cLogica.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cLogica.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cDatos.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cDatos.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.Cache
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.dll
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.xml
+C:\Users\ALEXD\Desktop\JR\querys JR\mas\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.dll
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cLogica.xml
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.dll
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cDatos.xml
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.vbprojResolveAssemblyReference.cache
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.Cache
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.dll
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.xml
+F:\A TUMBA REALES WEB\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cLogica.dll
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cLogica.xml
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cDatos.dll
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cDatos.xml
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+D:\Jr\FT1\13012019\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.vbprojResolveAssemblyReference.cache
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.Cache
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.dll
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.xml
+D:\Jr\FT1\13012019\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cLogica.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cLogica.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cDatos.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cDatos.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.AssemblyReference.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CoreCompileInputs.cache
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CopyComplete
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.dll
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.xml
+C:\Users\CANVIA\Desktop\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.dll
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.xml
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.dll
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.xml
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+D:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.AssemblyReference.cache
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.cache
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CoreCompileInputs.cache
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.dll
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.xml
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+D:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.Up2Date
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.AssemblyReference.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CoreCompileInputs.cache
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.Up2Date
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.dll
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.xml
+D:\Proyectos\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.dll
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cLogica.xml
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.dll
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cDatos.xml
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+E:\Tumbas Reales\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.AssemblyReference.cache
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.cache
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CoreCompileInputs.cache
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.Up2Date
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.dll
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.xml
+E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.pdb

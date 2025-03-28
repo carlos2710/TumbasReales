@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cLogica
+</name>
+</assembly>
+<members>
+<member name="T:cLogica.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:cLogica.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:cLogica.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.SoapEnvelopeAlumni(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="image"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.SoapEnvelope(System.Collections.Generic.Dictionary{System.String,System.String})">
+ <summary>
+ 
+ </summary>
+ <param name="Data"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.SoapEnvelopeDescarga(System.Collections.Generic.Dictionary{System.String,System.String})">
+ <summary>
+ envelope para descargar archisvo. esta funcion te un caracter general. cualquier cambio sin la respectiva configuracion en el servicio web wb
+ no se podria efectuar ningun tipo de descarga de documentos digitales.
+ </summary>
+ <param name="Data"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.SoapEnvelopeGenerarBoleta(System.Collections.Generic.Dictionary{System.String,System.String})">
+ <summary>
+ Envelope  para generar la hoja de remuneraciones digital
+ </summary>
+ <param name="Data">Diccionario de datos que son eviados atraves del servicio web</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.SoapEnvelopeGenerarCTS(System.Collections.Generic.Dictionary{System.String,System.String})">
+ <summary>
+ 'Cabecera de paticion SOAP para genera la hota semestral de ct
+ </summary>
+ <param name="Data">Diccionado de datos</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.ClsArchivosCompartidos.PeticionRequestSoap(System.String,System.String,System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="UrlService">
+ Url del servicio web en donde se encuentra alogado en el caso del server real debe ir http://localhost/
+ el caso de server dev http://serverdev/  server QA http://serverqa/
+ </param>
+ <param name="envelope"></param>
+ <param name="SoapAction">el actio del servicio web va depender de la accion que estan realizadon</param>
+ <param name="QVUSER">usuario que esta autenticado.</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cLogica.lFunciones.ParamsValues(System.Collections.Specialized.NameValueCollection,System.String)">
+ <summary>
+ Esta funcion permite retornar los key deun array param enviados desde jquery por metodo get
+ </summary>
+ <param name="postedValues">obtiene los key de params</param>
+ <param name="nameParam">nombre del paramnetro que será evaluado</param>
+ <returns>retorna lista de key del array param</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

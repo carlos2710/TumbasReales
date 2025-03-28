@@ -1,0 +1,458 @@
+﻿div p {
+    color: black;
+}
+
+#ministerio {
+    position: absolute;
+    top: 30px;
+}
+
+#titulo {
+    position: absolute;
+    top: 0px;
+    left: 270px;
+}
+
+#subtitulo {
+    text-align: center;
+}
+
+#museo {
+    position: absolute;
+    top: 30px;
+    left: 725px;
+}
+
+#contenedor {
+    position: absolute;
+    top: 120px;
+}
+
+#ident_cab {
+    position: absolute;
+    left: 40px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#ident_det {
+    margin-left: 300px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+#div_ficha {
+    border: 3px outset black;
+    width: 900px;
+    height: 40px;
+    margin: 10px;
+}
+
+#num_ficha {
+    position: absolute;
+    left: 280px;
+}
+
+#cab_ficha {
+    position: absolute;
+    left: 30px;
+}
+
+#identif_cab {
+    margin: 10px;
+    border: 3px outset black;
+    height: 40px;
+    width: 900px;
+}
+
+#cab_ident {
+    position: absolute;
+    left: 30px;
+}
+
+#datos_ident {
+    margin: 10px;
+    border: 3px outset black;
+    height: 160px;
+    width: 500px;
+}
+
+#excab_cab {
+    position: absolute;
+    top: 290px;
+    left: 10px;
+    border: 3px outset black;
+    height: 40px;
+    width: 500px;
+}
+
+#excab {
+    position: absolute;
+    left: 30px;
+}
+
+#excab_det {
+    position: absolute;
+    top: 340px;
+    border: 3px outset black;
+    left: 10px;
+    width: 500px;
+    height: 370px;
+}
+
+#excab_tit {
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    margin-top: 10px;
+}
+
+#excab_res {
+    margin-left: 300px;
+}
+
+#desc_cab {
+    position: absolute;
+    top: 710px;
+    margin: 10px;
+    border: 3px outset black;
+    height: 30px;
+    width: 900px;
+}
+
+#vista_cab {
+    position: absolute;
+    top: 112px;
+    left: 510px;
+    border: 3px outset black;
+    width: 390px;
+    height: 40px;
+    margin: 10px;
+}
+
+#vista {
+    position: absolute;
+    top: 180px;
+    left: 520px;
+    border: 3px outset black;
+    width: 390px;
+    height: 430px;
+    text-align: center;
+}
+
+#cab_vista {
+    position: absolute;
+    left: 10px;
+}
+
+#img_vista {
+    position: relative;
+    top: 10px;
+}
+
+#conserv {
+    position: absolute;
+    top: 617px;
+    left: 510px;
+    border: 3px outset black;
+    width: 390px;
+    height: 83px;
+    margin: 10px;
+}
+
+#cons_tit {
+    position: absolute;
+    left: 10px;
+}
+
+#cons_det {
+    position: absolute;
+    top: -12px;
+    left: 220px;
+}
+
+#cab_desc {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+}
+
+#desc_det {
+    position: absolute;
+    top: 750px;
+    border: 3px outset black;
+    width: 900px;
+    height: 220px;
+    margin: 10px;
+}
+
+#izquierda_desc {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#derecha_desc {
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+
+#desc_deta {
+    position: absolute;
+    top: -12px;
+    left: 280px;
+}
+
+#descripcion {
+    width: 600px;
+    height: 150px;
+}
+
+#desc_deta2 {
+    position: absolute;
+    top: -12px;
+    left: 220px;
+}
+
+#dime_cab {
+    position: absolute;
+    top: 990px;
+    margin: 10px;
+    border: 3px outset black;
+    height: 40px;
+    width: 900px;
+}
+
+#dime_desc {
+    position: absolute;
+    left: 20px;
+}
+
+#dime_det {
+    position: absolute;
+    top: 1050px;
+    margin: 10px;
+    border: 3px outset black;
+    height: 140px;
+    width: 900px;
+}
+
+#izq_dime {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#der_dime {
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+
+#dime_deta {
+    position: absolute;
+    top: -12px;
+    left: 220px;
+}
+
+#dime_deta2 {
+    position: absolute;
+    top: -12px;
+    left: 220px;
+}
+
+#ubic {
+    position: absolute;
+    top: 1240px;
+    margin: 10px;
+    border: 3px outset black;
+    height: 40px;
+    width: 900px;
+}
+
+#ubic_datos {
+    position: absolute;
+    left: 20px;
+}
+
+#ubic_det {
+    position: absolute;
+    top: 1290px;
+    border: 3px outset black;
+    width: 900px;
+    height: 80px;
+    margin: 10px;
+}
+
+#izqubic {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#ubic_deta {
+    position: absolute;
+    top: -15px;
+    left: 280px;
+}
+
+#derubic {
+    position: absolute;
+    top: 45px;
+    left: 500px;
+}
+
+#ubic_deta2 {
+    position: absolute;
+    top: -15px;
+    left: 100px;
+}
+
+#prob {
+    position: absolute;
+    top: 1380px;
+    margin: 10px;
+    border: 3px outset black;
+    height: 40px;
+    width: 900px;
+}
+
+#probl {
+    position: absolute;
+    left: 20px;
+}
+
+#prob_deta {
+    position: absolute;
+    top: 1430px;
+    border: 3px outset black;
+    width: 900px;
+    height: 80px;
+    margin: 10px;
+}
+
+#deta_prob {
+    position: absolute;
+    left: 10px;
+}
+
+#estado {
+    position: absolute;
+    top: 1520px;
+    border: 3px outset black;
+    width: 900px;
+    height: 40px;
+    margin: 10px;
+}
+
+#est_cons {
+    position: absolute;
+    left: 20px;
+}
+
+#est_deta {
+    position: absolute;
+    top: 1570px;
+    border: 3px outset black;
+    width: 900px;
+    height: 290px;
+    margin: 10px;
+}
+
+#obs {
+    position: absolute;
+    top: 1870px;
+    border: 3px outset black;
+    width: 900px;
+    height: 40px;
+    margin: 10px;
+}
+
+#obse {
+    position: absolute;
+    left: 20px;
+}
+
+#obs_det {
+    position: absolute;
+    top: 1920px;
+    border: 3px outset black;
+    width: 900px;
+    height: 120px;
+    margin: 10px
+}
+
+#deta_obs {
+    position: absolute;
+    left: 20px;
+}
+
+#rec {
+    position: absolute;
+    top: 2050px;
+    border: 3px outset black;
+    width: 900px;
+    height: 40px;
+    margin: 10px;
+}
+
+#reco {
+    position: absolute;
+    left: 20px;
+}
+
+#rec_det {
+    position: absolute;
+    top: 2100px;
+    border: 3px outset black;
+    width: 900px;
+    height: 120px;
+    margin: 10px
+}
+
+#rec_tit {
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    margin-top: 10px;
+}
+
+#rec_deta {
+    margin-left: 300px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+
+#footer {
+    top: 30px;
+    position: absolute;
+    left: 950px;
+}
+
+#crearpdf {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+}
+
+#inta {
+    position: absolute;
+    top: 125px;
+}
+
+#afec {
+    position: absolute;
+    top: 160px;
+}
+
+#trat {
+    position: absolute;
+    top: 210px;
+}
+
+#limp {
+    position: absolute;
+    top: 248px;
+}
