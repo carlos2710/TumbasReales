@@ -126,3 +126,20 @@ E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.Up2Date
 E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.dll
 E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.xml
 E:\Tumbas Reales\TumbasReales\cLogica\obj\Debug\cLogica.pdb
+E:\GIT\TumbasReales\cLogica\bin\Debug\cLogica.dll
+E:\GIT\TumbasReales\cLogica\bin\Debug\cLogica.pdb
+E:\GIT\TumbasReales\cLogica\bin\Debug\cLogica.xml
+E:\GIT\TumbasReales\cLogica\bin\Debug\cDatos.dll
+E:\GIT\TumbasReales\cLogica\bin\Debug\cEntidad.dll
+E:\GIT\TumbasReales\cLogica\bin\Debug\cDatos.pdb
+E:\GIT\TumbasReales\cLogica\bin\Debug\cDatos.xml
+E:\GIT\TumbasReales\cLogica\bin\Debug\cEntidad.pdb
+E:\GIT\TumbasReales\cLogica\bin\Debug\cEntidad.xml
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.AssemblyReference.cache
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.Resources.resources
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.GenerateResource.cache
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.CoreCompileInputs.cache
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.vbproj.Up2Date
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.dll
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.xml
+E:\GIT\TumbasReales\cLogica\obj\Debug\cLogica.pdb

@@ -25,6 +25,7 @@
     function leerArchivo2(evt) {
         let file = evt.target.files[0];
         let nombre = file.name.substr(-4);
+
         if (nombre != '.csv') {
             alert("Formato de archivo no es correcto, solo es permitido archivos .csv");
             document.getElementById("fileArchivo").value = "";
@@ -76,6 +77,7 @@
 
     });
     function fnCargaMasiva() {
+        limpia();
         for (let i = 0; i < Carga.length ; i++) {
             fnCargar(i);
         }
@@ -135,6 +137,7 @@
             url: "processmuseo.aspx",
             data: {
                 "param0": "CargaMasivaInv",
+                "paramdgc": $("#paramdgc").val(),
                 "txtRegistroNac": $('#txtRegistroNac').val(),
                 "txtCodPropietario": $('#txtCodPropietario').val(),
                 "txtOtrosCod": $('#txtOtrosCod').val(),
@@ -242,7 +245,7 @@
         $('#txtRegistrado').val("");
         $('#txtFechaAdicional').val("");
         $('#txtObservacionAdic').val("");
-
+        $('#fileArchivo').val("");
     }
     function fnBorrarG(c, d) {
         $("#param1").val(c);
@@ -402,7 +405,7 @@
             type: "GET",
             contentType: "application/json; charset=utf-8",
             url: "processmuseo.aspx",
-            data: { "param0": "DelInventario", "param1": $("#param1").val() },
+            data: { "param0": "DelInventario", "param1": $('#txtCodPropietario').val() },
             dataType: "json",
             success: function (data) {
                 fnMensaje(data[0].alert, data[0].msje);
@@ -750,6 +753,7 @@
                     url: "processmuseo.aspx",
                     data: {
                         "param0": "regInventario",
+                        "paramdgc": $('#paramdgc').val(),
                         "txtRegistroNac": $('#txtRegistroNac').val(),
                         "txtCodPropietario": $('#txtCodPropietario').val(),
                         "txtOtrosCod": $('#txtOtrosCod').val(),

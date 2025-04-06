@@ -70,3 +70,13 @@ E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInpu
 E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
 E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
 E:\Tumbas Reales\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb
+E:\GIT\TumbasReales\cEntidad\bin\Debug\cEntidad.dll
+E:\GIT\TumbasReales\cEntidad\bin\Debug\cEntidad.pdb
+E:\GIT\TumbasReales\cEntidad\bin\Debug\cEntidad.xml
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.AssemblyReference.cache
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.Resources.resources
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.GenerateResource.cache
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.vbproj.CoreCompileInputs.cache
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.dll
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.xml
+E:\GIT\TumbasReales\cEntidad\obj\Debug\cEntidad.pdb

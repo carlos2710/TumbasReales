@@ -393,7 +393,7 @@
         $("input#param0").val("DelInvInmueble");
         var load = $("#txtUpload").val();
         console.log(load+"#");
-        $("input#param1").val(load);
+        //$("input#param1").val(load);
         var form = $('#frmInvestigaciones').serialize();
         $.ajax({
             type: "POST",
@@ -591,7 +591,7 @@
             sw = 1;
         }
         if ($("#cboLevPlano").val() == "0") {
-            mensaje = "Seleccione levantmiento de plano"
+            mensaje = "Seleccione levantamiento de plano"
             sw = 1;
         }
         if ($("#txtFecha").val() == "") {
@@ -620,7 +620,7 @@
                 contentType: "application/json; charset=utf-8",
                 url: "processmuseo.aspx",
                 //data: form,
-                data: { "param0": "gInvInmbueble2", "invInm": $("#invInm").val(), "txtNorma": $("#txtNorma").val(), "txtFecha": $("#txtFecha").val(), "cboLevPlano": $("#cboLevPlano").val(), "txtElaborado": $("#txtElaborado").val(), "cboFichaTec": $("#cboFichaTec").val(), "cboMemoria": $("#cboMemoria").val(), "txtTipoSitio": $("#txtTipoSitio").val(), "txtCultura": $("#txtCultura").val(), "txtEstado": $("#txtEstado").val() },
+                data: { "param0": "gInvInmbueble2", "invInm": $("#invInm").val(), "txtNorma": $("#txtNorma").val(), "txtFecha": $("#txtFecha").val(), "cboLevPlano": $("#cboLevPlano").val(), "txtElaborado": $("#txtElaborado").val(), "cboFichaTec": $("#cboFichaTec").val(), "cboMemoria": $("#cboMemoria").val(), "txtTipoSitio": $("#txtTipoSitio").val(), "txtCultura": $("#txtCultura").val(), "txtEstado": $("#txtEstado").val(), "txtEstado": $("#txtNombreSitioI").val() },
                 dataType: "json",
                 //cache: false,
                 //async: false,
@@ -788,6 +788,9 @@
     function fnAfecDoc() {
         $('#DivAfecDoc').show();
         $('#DivAfecBD').hide();
+        //Inicio JAZ
+        CargarInmuebles3();
+        //Fin JAZ
     }
 
     function fnAfecBD() {
@@ -957,6 +960,7 @@
         $("#param1").val(c);
         $("#Dato").html("<label class='col-md-12 control-label'> Desea Confirmar la Eliminaci&oacute;n del Registro: " + d + "</label>");
         $('div#mdDelRegistro').modal('show');
+
         return true;
     }
 
@@ -1117,7 +1121,10 @@
                     for (i = 0; i < aData.length; i++) {
                         contador = contador + 1;
                         tb += '<tr>';
-                        tb += '<td style="text-align:center">' + contador + '</td>';
+                        //Inicio JAZ
+                        //tb += '<td style="text-align:center">' + contador + '</td>';
+                        tb += '<td style="text-align:center">' + aData[i].codigo_ado + '</td>';
+                        //Fin JAZ
                         tb += '<td style="text-align:center">' + aData[i].anio_ado + '</td>';
                         tb += '<td style="text-align:center">' + aData[i].sitio_ado + '</td>';
                         if (aData[i].archivo == "" || aData[i].archivo == "0") {
@@ -1459,6 +1466,12 @@
             mensaje = "Ingrese Sitio"
             sw = 1;
         }
+        //Inicio JAZ
+        if ($("#file_AfecDoc").val() == "") {
+            mensaje = "Seleccione un archivo"
+            sw = 1;
+        }
+        //Fin JAZ
         if (sw == 1) {
             fnMensaje("error", mensaje);
             return false;
@@ -1466,6 +1479,7 @@
             $('.piluku-preloader').removeClass('hidden');
             $("input#param0").val("gInmuebles3");
             var form = $('#frmInvestigaciones').serialize();
+
             $.ajax({
                 type: "POST",
                 //contentType: "application/json; charset=utf-8",
@@ -1939,7 +1953,10 @@
                                     <tr>
                                             <th style="width:6%;text-align:center;"></th>
                                             <th style="width:15%;text-align:center;">Año</th>
-                                            <th style="width:20%;text-align:center;">Proyecto</th>
+                                        <%--Inicio JAZ--%>
+                                            <%--<th style="width:20%;text-align:center;">Proyecto</th>--%>
+                                            <th style="width:20%;text-align:center;">Sitio</th>
+                                        <%--Fin JAZ--%>
                                             <th style="width:10%;text-align:center;">Archivo</th>
                                         </tr>
                                         </thead>     

@@ -820,6 +820,25 @@
                         $('#txtIntervAntT').val(data[0].intervenciones_tra);
                         $('#txtFechaIniT').val(data[0].fini_tra);
                         $('#txtFechFinT').val(data[0].ffin_tra);
+                        //Inicio JAZ
+                        $('#txtPesoFinT').val(data[0].pesofin_tra);
+                        $('#txtSecadoT').val(data[0].secadopost_tra);
+                        $('#txtPegadoT2').val(data[0].pegadopost_tra);
+                        $('#txtConsolidacionT').val(data[0].consolidacion_tra);
+                        $('#txtReIntegracT').val(data[0].reintegracion_tra);
+                        $('#txtOtrosPostT').val(data[0].otrospost_tra);
+                        $('#txtFechaIniProcT').val(data[0].finipost_tra);
+                        $('#txtFechaFinProcT').val(data[0].ffinpost_tra);
+                        $('#txtTemperaturaT').val(data[0].temperatura_tra);
+                        $('#txtHumedadT').val(data[0].humedad_tra);
+                        $('#txtManipulacionT').val(data[0].manipulacion_tra);
+                        $('#txtIluminacionT').val(data[0].iluminacion_tra);
+                        $('#txtOtrosRecT').val(data[0].otrosrec_tra);
+                        $('#txtMaterialRecomendT').val(data[0].materialrec_tra);
+                        $('#txtObservacionesT').val(data[0].observaciones_tra);
+                        $('#txtConservCargoT').val(data[0].conservadorcargo_tra);
+                        $('#txtFechaT').val(data[0].fecha_tra);
+                        //Fin JAZ
                         
                         const Listado = data[0].intervenciones_tra.split(",");
                         tagInput2.addData(Listado);

@@ -11,7 +11,10 @@
     Private _utme_inm As Integer
     Private _utmn_inm As Integer
     Private _datum_inm As String
-    Private _perimetro_inm As Integer
+    'Inicio JAZ
+    'Private _perimetro_inm As Integer
+    Private _perimetro_inm As Double
+    'Fin JAZ
     Private _normalega_inm As String
     Private _fecha_inm As Date
     Private _levplano_inm As Integer
@@ -164,12 +167,17 @@
 
         End Set
     End Property
-
-    Public Property perimetro_inm() As Integer
+    'Inicio JAZ
+    'Public Property perimetro_inm() As Integer
+    Public Property perimetro_inm() As Double
+        'Fin JAZ
         Get
             Return _perimetro_inm
         End Get
-        Set(ByVal value As Integer)
+        'Inicio JAZ
+        'Set(ByVal value As Integer)
+        Set(ByVal value As Double)
+            'Fin JAZ
             _perimetro_inm = value
 
         End Set
@@ -335,7 +343,7 @@
         _datum_inm = String.Empty
     End Sub
 
-    Public Sub New( _
+    Public Sub New(
               ByVal ln_codigo_inm As Integer _
               , ByVal ls_nombresitio_inm As String _
               , ByVal ls_caserio_inm As String _
@@ -345,7 +353,7 @@
               , ByVal ln_utme_inm As Integer _
               , ByVal ln_utmn_inm As Integer _
               , ByVal ln_datum_inm As String _
-              , ByVal ln_perimetro_inm As Integer _
+              , ByVal ln_perimetro_inm As Double _
               , ByVal ls_normalega_inm As String _
               , ByVal ld_fecha_inm As Date _
               , ByVal ln_levplano_inm As Integer _
@@ -360,7 +368,7 @@
               , ByVal ld_fechamod As Date _
               , ByVal ls_usuariomod As String _
               , ByVal ln_activo_cat As Integer _
-              , ByVal ln_id_dgc As Integer _
+              , ByVal ln_id_dgc As Integer
            )
         _codigo_inm = ln_codigo_inm
         _nombresitio_inm = ls_nombresitio_inm

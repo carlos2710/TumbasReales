@@ -102,3 +102,17 @@ E:\Tumbas Reales\TumbasReales\cDatos\obj\Debug\cDatos.vbproj.Up2Date
 E:\Tumbas Reales\TumbasReales\cDatos\obj\Debug\cDatos.dll
 E:\Tumbas Reales\TumbasReales\cDatos\obj\Debug\cDatos.xml
 E:\Tumbas Reales\TumbasReales\cDatos\obj\Debug\cDatos.pdb
+E:\GIT\TumbasReales\cDatos\bin\Debug\cDatos.dll
+E:\GIT\TumbasReales\cDatos\bin\Debug\cDatos.pdb
+E:\GIT\TumbasReales\cDatos\bin\Debug\cDatos.xml
+E:\GIT\TumbasReales\cDatos\bin\Debug\cEntidad.dll
+E:\GIT\TumbasReales\cDatos\bin\Debug\cEntidad.pdb
+E:\GIT\TumbasReales\cDatos\bin\Debug\cEntidad.xml
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.vbproj.AssemblyReference.cache
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.Resources.resources
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.vbproj.GenerateResource.cache
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.vbproj.CoreCompileInputs.cache
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.vbproj.Up2Date
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.dll
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.xml
+E:\GIT\TumbasReales\cDatos\obj\Debug\cDatos.pdb
